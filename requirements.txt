@@ -1,0 +1,7 @@
+crewai[google-genai]
+crewai-tools
+python-dotenv
+beautifulsoup4
+requests
+pytest
+tenacity
